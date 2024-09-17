@@ -1,4 +1,4 @@
-###  IntervjuMall 
+###  Intervjumall 
  
  1. Vad är det viktigaste du letar efter när du hyr utrustning?
      - Märken, Pris, kvalitet, Support?  
