@@ -38,3 +38,4 @@
      - Dagvis, timvis, längre perioder?
 ---
 - 10. Om det fanns en möjlighet att boka en "provdag" för att testköra ny utrustning till ditt projekt, är det något du skulle överväga?
+
