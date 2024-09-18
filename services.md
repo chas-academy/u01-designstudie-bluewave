@@ -12,5 +12,9 @@ osv.
 - Fotokurser för nybörjare (presentkort?)
 
 Stockholm based. 
-Studios are size based, small, medium and big.   
-Utilies are also size based, small, medium and big.
+2 studios   
+Utilies are also size based, small and big.   
+
+1 price for each size
+
+
