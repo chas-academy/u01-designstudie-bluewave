@@ -26,8 +26,8 @@
 
 ### Grundlägande Fotoutrustning hyrespriser:
 
-- Per dag: 500–800 SEK
-- 3-7 dagar: 1,200–2,000 SEK
+- Per dag: 1500 SEK
+- 5 dagar: 5000 SEK
 
 Detta omfattar utrusning vilket ger ett prisvärt paket för mindre projekt eller nybörjarfotografer.
 
@@ -90,7 +90,7 @@ Detta omfattar utrusning vilket ger ett prisvärt paket för mindre projekt elle
 
 ### Professionell Fotoutrustning 
 
-- Per dag: 2,500–4,000 SEK
-- 3-7 dagar: 6,000–10,000 SEK
+- Per dag: 4,000 SEK
+- 5 dagar: 18 000 SEK
 
 Detta paket innehåller avancerade professionella utrustning som behövs för mer komplexa och storskaliga studiofotograferingar.
