@@ -1,24 +1,40 @@
-### Price List
+# Price List
+
+
+
+## STUDIO 1:
+
+![alt text](1.webp)
+- 1h: 400kr
+- 2h: 900kr
+- 3h: 1400kr
+- 4h: 1900kr
 
 https://citystudios.se/
-Studio 1:
-1h: 500kr
-Studio 2:
-1h: 500kr
 
-Heldag (06-24.00)= 7200kr
-Paket-deal 400kr/h minst 10 förbetalda timmar
+## STUDIO 2:
 
-https://www.fotostudion.se/priser
-studio 1:
-halvdag (08-12:30): 2500kr
-helgdag (08-18:00): 3750kr
+![alt text](3.webp)
+- 1h: 500kr
+- 2h: 1000kr
+- 3h: 1500kr
+- 4h: 2000kr
 
-STUDIO 2
-Halvdag (08:00-12:30): 3 500 kr
-Heldag (08:00-18:00): 4 750 kr
 
-Går att lägga till extra tjänster:
+
+## Paket-Deals
+![alt text](1057475_profoto_b10x_product_photo.webp)
+
+- Heldag: (06-24.00)= 7200kr
+- 400kr/h: minst 10 förbetalda timmar
+- 350kr/h: minst 20 förbetalda timmar
+
+#### Går att lägga till extra tjänster:
+![alt text](Rocco_Ancora_Shotkit_001.jpg)
+
 + 500 kr för bokning av Aputure Amaran 300C, med Fresnell & Barndoors
 + 1250 kr för bokning av Aputure Amaran - 100X, 200X, 200D, med softboxar.
 + 500 kr för bokning av 1st Profoto D1 250w + 1st D2 500ws kompaktaggregat.
+
+
+https://www.fotostudion.se/
