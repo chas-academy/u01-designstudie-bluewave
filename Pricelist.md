@@ -9,9 +9,9 @@ Studio 1, med en total yta på cirka 50 kvm, erbjuder en perfekt miljö för pro
 Utöver fotostudion finns ett kombinerat fikarum och toalett på totalt 15 kvm med en takhöjd på cirka 2,5 meter. Detta utrymme är utformat för att ge en bekväm och funktionell plats för pauser, möten eller förberedelser, vilket säkerställer att både fotografer och kunder kan arbeta i en trivsam och professionell miljö.
 
 - 1h: 400kr
-- 2h: 900kr
+- 2h: 800kr
 - 3h: 1400kr
-- 4h: 1900kr
+- 4h: 1800kr
 
 https://citystudios.se/
 
