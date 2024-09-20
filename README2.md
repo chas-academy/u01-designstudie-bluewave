@@ -8,7 +8,12 @@
 
 
 ## PixelCraft Studio
-Ett företag som erbjuder allt som en frilansande fotograf kan behöva. De har nått ut till oss i behov av en hemsida.   
+Ett företag som erbjuder allt som en frilansande fotograf kan behöva. De har studios i Stockholm och har ett lager på utrustning till uthyrning.
+
+## Backstory
+PixelCraft Studio has hired BlueWave to make their website. They are newly established and has no customer data. 
+
+## Founders
 
 
 
