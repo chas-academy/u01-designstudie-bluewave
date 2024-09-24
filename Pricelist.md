@@ -3,6 +3,8 @@
 ## STUDIO 1
 
 ![alt text](1.webp)
+Studio 1, med en total yta på cirka 50 kvm, erbjuder en perfekt miljö för professionell fotografering. Fotoytan, som sträcker sig över 25-30 kvm, är utrustad med vitmålade väggar, vilket skapar en ljus och neutral bakgrund. De vita väggarna reflekterar ljus optimalt och bidrar till att skapa en ren och flexibel yta som passar alla typer av fotograferingar, från porträtt till produktbilder. Den generösa takhöjden på minst 3 meter möjliggör avancerad ljussättning och installation av fotoutrustning utan hinder.
+Utöver fotostudion finns ett kombinerat fikarum och toalett på totalt 15 kvm med en takhöjd på cirka 2,5 meter. Detta utrymme är utformat för att ge en bekväm och funktionell plats för pauser, möten eller förberedelser, vilket säkerställer att både fotografer och kunder kan arbeta i en trivsam och professionell miljö.
 
 - 1h: 400kr
 - 2h: 800kr
@@ -14,6 +16,9 @@ https://citystudios.se/
 ## STUDIO 2
 
 ![alt text](3.webp)
+Studio 2 är en större fotostudio på cirka 80 kvm, utformad för professionell fotografering med högre krav. Den rymliga fotoytan på 40-50 kvm har vitmålade väggar som reflekterar ljus perfekt och skapar en neutral bakgrund, idealisk för allt från porträtt till storskaliga produktioner. Med en takhöjd på över 4 meter möjliggörs avancerad ljussättning och riggning av utrustning utan begränsningar.
+Studion är dessutom utrustad med ett separat fikarum och lounge på totalt 20 kvm, samt en privat omklädningsrum och toalett. Detta ger en bekväm och professionell miljö för pauser, förberedelser och möten. Studio 1 erbjuder en komplett, högkvalitativ lösning för både kreativa och praktiska behov, vilket gör den idealisk för mer omfattande fotograferingsprojekt.
+
 - 1h: 500kr
 - 2h: 1000kr
 - 3h: 1500kr
