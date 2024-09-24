@@ -31,7 +31,7 @@ Erbjuder en prisvärd lösning för mindre fotograferingar. Med den kompakta stu
 
 Erbjuder en komplett lösning för professionella fotografer. Förutom att hyra den rymliga studion på 80 kvm, kan du också inkludera kamera- och ljusutrustning som en del av paketet. Med denna allt-i-ett-lösning får du tillgång till högkvalitativ utrustning direkt på plats, vilket gör din fotografering smidigare och mer effektiv
 
-#### Timvis-rabatt 
+#### Timvis-rabatt
 
 - Heldag: (06-24.00)= 7200kr
 - 400kr/h: minst 10 förbetalda timmar
@@ -41,13 +41,13 @@ Erbjuder en komplett lösning för professionella fotografer. Förutom att hyra 
 
 ![alt text](Rocco_Ancora_Shotkit_001.jpg)
 
-+ 500 kr för bokning av Aputure Amaran 300C, med Fresnell & Barndoors
+- 500 kr för bokning av Aputure Amaran 300C, med Fresnell & Barndoors
 
-+ 1250 kr för bokning av Aputure Amaran - 100X, 200X, 200D, med softboxar.
-+ 500 kr för bokning av 1st Profoto D1 250w + 1st D2 500ws kompaktaggregat.
-+ 1 250 kr för bokning av 1 st Profoto D4 2400ws med 4 st Pro head lamphuvuden.
-+ 1 000 kr för bokning av 1 st Profoto Pro-8 2400ws med 2st Pro head plus lamphuvud.
-+ 195 kr/rullmeter förbrukat fondpapper och färgfilter i lager, kontakta oss för tillgänglighet och eventuell beställning.
-+ 750 kr/timme vid tillgång till lokalen under annan tid.
+- 1250 kr för bokning av Aputure Amaran - 100X, 200X, 200D, med softboxar.
+- 500 kr för bokning av 1st Profoto D1 250w + 1st D2 500ws kompaktaggregat.
+- 1 250 kr för bokning av 1 st Profoto D4 2400ws med 4 st Pro head lamphuvuden.
+- 1 000 kr för bokning av 1 st Profoto Pro-8 2400ws med 2st Pro head plus lamphuvud.
+- 195 kr/rullmeter förbrukat fondpapper och färgfilter i lager, kontakta oss för tillgänglighet och eventuell beställning.
+- 750 kr/timme vid tillgång till lokalen under annan tid.
 
 https://www.fotostudion.se/
