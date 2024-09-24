@@ -30,6 +30,7 @@ Studion är dessutom utrustad med ett separat fikarum och lounge på totalt 20 k
 
 ## Paket-Deals
 
+
 ![alt text](1057475_profoto_b10x_product_photo.webp)
 
 #### Studio 1-paket
@@ -45,6 +46,8 @@ Erbjuder en komplett lösning för professionella fotografer. Förutom att hyra 
 - Heldag: (06-24.00)= 7200kr
 - 400kr/h: minst 10 förbetalda timmar
 - 350kr/h: minst 20 förbetalda timmar
+
+#### Går att lägga till extra tjänster
 
 #### Går att lägga till extra tjänster
 

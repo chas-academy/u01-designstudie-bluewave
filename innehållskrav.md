@@ -12,7 +12,7 @@
 
 [ ] Den ska passa i mobil och dator. (två designs? En för hur det ser ut i mobil och en för hur det ser ut i dator)  
 
-[ ] Intervjua minst 5 personer.
+[ ] Intervjua minst 5 personer.  
 [ ] Skapa en intervjumall  
 [ ] Skapa 2 personas  
 [ ] Utveckla user stories

@@ -9,7 +9,7 @@ osv.
 - bara utrustning
 
 - Läger för kreatörer där människor kan utbyta idéer, visa stöd, ge konstruktiv feedback etc. (ungefär som en sammanslagning av en bokklubb och ett kreativt bootcamp)
-- Fotokurser för nybörjare
+- Fotokurser för nybörjare (presentkort?)
 
 Idé: låt oss säga att det finns ett företag som leds av professionella fotografer (som ett kollektiv) som äger denna massiva industriella enhet som de vill skapa ett fysiskt företag i, med syfte att stödja oberoende konstnärer / fotografer, kommande talanger för att lyckas i branschen.
 
