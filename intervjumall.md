@@ -1,6 +1,6 @@
 ###  Intervjumall 
  
-~~ 1. Vad är det viktigaste du letar efter när du hyr utrustning?~~
+~~ 1. Vad är det viktigaste du letar efter när du hyr utrustning?
      - Märken, Pris, kvalitet, Support?  
 
 
@@ -37,6 +37,13 @@
 - 10. Om det fanns en möjlighet att boka en "provdag" för att testköra ny utrustning till ditt projekt, är det något du skulle överväga? ~~
 # EDIT
 
+## Intro
+Hej, vi jobbar med en gruppuppgift där vi ska designa en hemsida  
+och just nu gör vi intervjuer för att skapa en förståelse för vår målgrupp.  
+Vi kommer anteckna, eventuellt spela in vår samtal men den kommer endast  
+användas av oss i research syfte. Ditt namn kommer förbli anonym men vill  
+gärna ha ålder, yrke och dylikt. Går det bra för dig? Är det något som är oklart kring detta?
+
 ## Lär känna användaren
 Ålder?
 Yrke?
@@ -46,7 +53,7 @@ Utöver fotografi, vilka hobbies?
 
 ## Användarens vana
 
-+ Använder du helst mobil eller desktop när du använder vår hemsida?  
++ Använder du helst mobil eller desktop när du bokar tjänster online?  
 
 + Till vilket syfte brukar du boka studior med eller utan utrustning?
 
