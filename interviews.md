@@ -1,4 +1,4 @@
-
+# Interviews
 Here is a log of all interviews done in this project.  
 The notes are not quotations, mainly keywords of what was spoken out loud. 
 
@@ -73,7 +73,7 @@ NOTE! Ställde inte frågan för att direkt efter föregående fråga gav hon sv
 *Det ska kunnas bredda ännu mer, förlänger den genom sociala medier. Där finns det mer, kanske mer reviews och kommentarer. Få mer insikt, djup att det blir mer levande. Man kan se vad folk säger, som har då använt den på riktigt, se kommentarer, hur många följare. Viktigt att kunna se vad alla tycker.*  
 
 
-# Interview 2
+# Interview 2 [back](#interviews)
 > done by Fredric, observed and notes taken by Ida (a record of the interview is available upon request)  
 
 ## Lära känna användaren  
