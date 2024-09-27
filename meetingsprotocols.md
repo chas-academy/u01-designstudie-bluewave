@@ -14,7 +14,7 @@
 
 
 ## Protokoll 240917 
-[back](#meeting-protocols)
+[back](#meeting-protocols)  
 Skriva ner allt vi behöver för uppgiften.  
 Skapa företaget som behöver en hemsida. Arbetar lite mer på allt det generella.    
 Delegera arbete? Efter vi skapat en grund design kanske man kan dela upp de olika landningssidorna. 
