@@ -2,7 +2,7 @@
 
 ## STUDIO 1
 
-![alt text](1.webp)
+![alt text](/images/1.webp)
 
 Studio 1, med en total yta på cirka 50 kvm, erbjuder en perfekt miljö för professionell fotografering. Fotoytan, som sträcker sig över 25-30 kvm, är utrustad med vitmålade väggar, vilket skapar en ljus och neutral bakgrund. De vita väggarna reflekterar ljus optimalt och bidrar till att skapa en ren och flexibel yta som passar alla typer av fotograferingar, från porträtt till produktbilder. Den generösa takhöjden på minst 3 meter möjliggör avancerad ljussättning och installation av fotoutrustning utan hinder.
 
@@ -17,7 +17,7 @@ https://citystudios.se/
 
 ## STUDIO 2
 
-![alt text](3.webp)
+![alt text](/images/3.webp)
 
 Studio 2 är en större fotostudio på cirka 80 kvm, utformad för professionell fotografering med högre krav. Den rymliga fotoytan på 40-50 kvm har vitmålade väggar som reflekterar ljus perfekt och skapar en neutral bakgrund, idealisk för allt från porträtt till storskaliga produktioner. Med en takhöjd på över 4 meter möjliggörs avancerad ljussättning och riggning av utrustning utan begränsningar.
 
@@ -31,7 +31,7 @@ Studion är dessutom utrustad med ett separat fikarum och lounge på totalt 20 k
 ## Paket-Deals
 
 
-![alt text](1057475_profoto_b10x_product_photo.webp)
+![alt text](/images/1057475_profoto_b10x_product_photo.webp)
 
 #### Studio 1-paket
 
@@ -51,7 +51,7 @@ Erbjuder en komplett lösning för professionella fotografer. Förutom att hyra 
 
 #### Går att lägga till extra tjänster
 
-![alt text](Rocco_Ancora_Shotkit_001.jpg)
+![alt text](/images/Rocco_Ancora_Shotkit_001.jpg)
 
 - 500 kr för bokning av Aputure Amaran 300C, med Fresnell & Barndoors
 - 1250 kr för bokning av Aputure Amaran - 100X, 200X, 200D, med softboxar.
