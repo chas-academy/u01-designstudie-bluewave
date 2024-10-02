@@ -289,3 +289,112 @@
 <br>
 
 (*Transcribed by TurboScribe.ai.*)
+
+<br>
+
+<br>
+
+## Interview 3: with K. S. October 2, 2024
+
+**A:** here. So I'll just read a little intro for you. We've already talked about it, but just so it's on the recording. 
+
+**A:** We are working on group assignment to do a website, and right now we're doing interviews to create an understanding of our target audience. We will take notes, possibly record our conversation, but it will only be used for research purposes. Your name will remain anonymous, but we like to have age, profession, and such. Is that okay for you? 
+
+**K:** Yeah, that's fine. Is there anything that is unclear about what I've just said? No, no, that's absolutely fine. Great. 
+
+**A:** So K, let's start with you telling a little bit about yourself. Your age, your occupation, family background, what level of photography, and such. 
+
+**K:** Okay, well, let's start with my age, which is get the worst bit over with. I'm 65 now, so I'm eligible to be a pensioner. So I worked as a professional photographer for around about 40 years. I'm from England. I've worked as an advertising photographer for many years. I started my career working as an editorial photographer, working for magazines. I've worked for quite large agencies in London. 
+5 years ago, I moved to Sweden. It's a much smaller market, unfortunately, Sweden, so it's been a little bit tough to work as an advertising photographer. So that was one of the reasons why I started up my photo school. So I spend a lot of time now teaching people how to take photographs. And that's how we met. And that's how we met. 
+
+**A:** Lucky for us. 
+
+**K:** Absolutely, which is something I enjoy. Now, when you work in advertising, a lot of the people you happen to meet tend to be quite young, 30s, maybe 40s. But when they get to my age now, most senior people, people in charge, have retired. So I've lost many of my contacts from the industry now. But it's not a problem for teaching. I think people still have respect for the knowledge I've acquired over 40 years. 
+
+**A:** Absolutely, Kim. Absolutely. 100%. Thank you for that. Thank you for the introduction. We'll move on now with questions regarding the potential website and services. So if we're talking about a website that would offer services such as renting photography spaces and the photography equipment with them, would you prefer to use your mobile or desktop to book those services? I think the easiest is mobile. Mobile. 
+
+All right. Have you previously had a need to book a photography studio with or without equipment during your career? 
+
+**K:** Yes, many times. 
+
+**A:** Would you be able to name some websites or companies that you've used their services from? 
+
+**K:** As far as the studio goes, I think it's a studio you know of. We met there once for a long time, which is City Studios. City Studios. City Studios in Stockholm.
+
+**A:** Lovely. And can you just tell me, for what purpose would you usually book a studio with or without equipment for? 
+
+**K:** With my type of photography, I do it mostly in portraits. So normally photographing people. 
+
+**A:** All right. What kind of problems do you usually or have you encountered when you wanted to book such a service online? Is there something that you can remember that was really uncomfortable? 
+
+**K:** Well, sometimes when you use a high-end studio, you're not quite sure about how the equipment's been set up previously. If there's been another photographer working there, they haven't always left it in the best condition, shall we say.  Sometimes they get broken. Sometimes you can't find things. But I would say the majority of the time they're pretty well maintained.
+
+**A:** All right. And if we're thinking from the website functionality side of it, has there been a functionality from the website service, the booking service, that has been missing for you? 
+
+**K:** No. With City Studios, I use most. Their booking system is quite good. So the only problem I've had occasionally is that they change the door code. So I have problems trying to access the door code. So I have to try and contact somebody. I see. So it's not automatically sent out to members. 
+
+**A:** Right. And if we're now looking at the advantages or positives, what kind of positive aspects have you encountered when booking a service online? And you can also think outside the City Studios, for example. If you're thinking about just booking services online, has there been anything really positive that you've experienced that has really made your smile or made your life easier? That's a difficult question.
+
+**K:** No, the majority of time I've been quite happy with any services which I've ordered online. Are you referring to hiring or buying or renting? 
+
+**A:** If we're thinking in terms of renting or even if you think about booking, I don't know, a hairdresser salon appointment or anything like that. I mean, these days we do everything online. So we're wondering whether any booking system or service provider has created their website in a way that has been very easy and comfortable to use for you. And what would that entail then for you? 
+
+**K:** Well, normally I'd phone somebody and I'd contact somebody personally. 
+
+**A:** Right. 
+
+**K:** So once you've spoken to them, normally there's no problems. I mean, you're employing that person to do a job. So they're normally very good, very efficient.
+
+**A:** I see. Okay. And let's move on. So if we're thinking about those websites that provide such service as studio booking, what would be the priority of information on that website for you? 
+
+**K:** The facilities they might have in the studio, how large is it? Are they supplying the lighting, backgrounds, et cetera, et cetera. Also a lot depends on the type of photography you're doing. Do you need something like an infinity curve to use or do you need still life props? Do you need mirrors and lighting for models, makeup artists, et cetera? Do you have good toilet facilities, kitchen facilities for making food or drinks if required? So it really depends on the type of photography, really. 
+
+**A:** All right. Thank you for that. It was a very thorough answer. So what would you see as the primary function of this kind of website? 
+
+**K:** The one you're considering to make. 
+
+**A:** Right. Exactly.
+
+**K:** It's quite important, obviously, to stress where the location is, providing a map. Obviously, the costs involved, contacts, people to contact if there are any problems. That's basically it. But it's quite important that if they're renting out or if you're hiring the equipment, it's important that it's not too old and reliable. 
+
+**A:** All right. And in terms of website design, what do you personally value in terms of website design? 
+
+**K:** I prefer something that's reasonably simple, very easy, very visual, easy to read, nothing too complicated. 
+
+**A:** And is there anything you would dislike about how this kind of website normally works? 
+
+**K:** Well, as I say, I just keep it simple. Not too many pages. Quite often when we're reviewing different websites, we don't want to spend too long on them.
+
+**A:** Right. 
+
+**K:** Two or three minutes after that, maybe that's a bit too much because you might want to make comparisons with other studios, etc. So, as simple as possible. 
+
+**A:** Simple, quick, effective. 
+
+**K:** Yeah, absolutely. You must give all that information almost on the first page.
+
+**A:** Right. And could you name one or some improvements that could be made to make it easier for you? 
+
+**K:** To make contact. To make contact, to book a service, to get the information out of the website that you need.
+
+**A:** Is there something specific that would pop in, that pops in your mind that would make it easier for you? 
+
+**K:** Well, as I mentioned, obviously, the location is important. The costs involved are important. Their facilities are also quite important. Contact names. If you can't get all the information from the website, somebody you can actually phone and speak to. 
+
+**A:** Perfect. And finally, we're almost at the end, so is there anything that I haven't asked you that you think that could be useful for us? 
+
+**K:** You mentioned about hiring and renting, didn't you? Are you also considering renting out lighting or cameras, etc.? 
+
+**A:** Yes. So, the idea behind the fictional company was that they would offer two different kinds of studios, so two different sizes, and then one could book with equipment or without equipment, so there would be different types of equipment involved for photographers. 
+
+**K:** Yeah, okay. That's quite often the case, actually. They do have a choice of different studios to rent. The choice of equipment, obviously, is important. Would you be thinking of just lighting or cameras as well? 
+
+**A:** I think in our case, we have made it so cameras would be personal to each photographer, but all the rest would be available. 
+
+**K:** That's an easier option, because there are such a variety of different cameras out there and different lenses. So, when it comes to the lighting, keep to the main ones as well, like Broncolor and Enichrom, the ones that most photographers are familiar with.
+
+**A:** Right. All right. Perfect, Kim. hank you so much for taking the time. You've been very helpful to us. I will now finish the recording.
+
+<br>
+
+(*Transcribed by TurboScribe.ai.*)
