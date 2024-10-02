@@ -311,9 +311,11 @@
 
 **K:** Absolutely, which is something I enjoy. Now, when you work in advertising, a lot of the people you happen to meet tend to be quite young, 30s, maybe 40s. But when they get to my age now, most senior people, people in charge, have retired. So I've lost many of my contacts from the industry now. But it's not a problem for teaching. I think people still have respect for the knowledge I've acquired over 40 years. 
 
-**A:** Absolutely, Kim. Absolutely. 100%. Thank you for that. Thank you for the introduction. We'll move on now with questions regarding the potential website and services. So if we're talking about a website that would offer services such as renting photography spaces and the photography equipment with them, would you prefer to use your mobile or desktop to book those services? I think the easiest is mobile. Mobile. 
+**A:** Absolutely, K. Absolutely. 100%. Thank you for that. Thank you for the introduction. We'll move on now with questions regarding the potential website and services. So if we're talking about a website that would offer services such as renting photography spaces and the photography equipment with them, would you prefer to use your mobile or desktop to book those services? 
 
-All right. Have you previously had a need to book a photography studio with or without equipment during your career? 
+**K:** I think the easiest is mobile. Mobile. 
+
+**A:** All right. Have you previously had a need to book a photography studio with or without equipment during your career? 
 
 **K:** Yes, many times. 
 
@@ -393,7 +395,7 @@ All right. Have you previously had a need to book a photography studio with or w
 
 **K:** That's an easier option, because there are such a variety of different cameras out there and different lenses. So, when it comes to the lighting, keep to the main ones as well, like Broncolor and Enichrom, the ones that most photographers are familiar with.
 
-**A:** Right. All right. Perfect, Kim. hank you so much for taking the time. You've been very helpful to us. I will now finish the recording.
+**A:** Right. All right. Perfect, K. hank you so much for taking the time. You've been very helpful to us. I will now finish the recording.
 
 <br>
 
