@@ -9,8 +9,10 @@
 [Protocol 240923](#protocol-240923)  
 [Protocol 240924](#protocol-240924)  
 [Protocol 240925](#protocol-240925)  
-[Protocol](#protocol-240927)  
-[Protocol]  
+[Protocol 240927](#protocol-240927)  
+[Protocol 240930](#protocol-240930)  
+[Protocol 241002](#protocol-241002)  
+
 
 
 ## Protokoll 240917 
@@ -176,3 +178,26 @@ Viktigt att under intervjuerna, spela in, anteckna, transkribera.
 We are ready to start on the Personas and User-Stories.  
 Gabbe and Fredric are going to start on reading up on the interviews for creating Personas. 
 Ida finalizes the interview notes. 
+
+## Protocol 240930
+
+[back](#meeting-protocols)
+
+Personas är klara, håller på med user stories. 
+
+Vi ligger i bra fas. Bara invänta sista intervjun, så vi kan lägga till på personas och user stories. 
+
+Skulle vara kul att göra varsin skiss på startsida, till nästa vecka. 
+
+Pratade med Olli Heikki om antal user stories, fanns inget. 
+
+## Protocol 241002
+
+[back](#meeting-protocols)
+
+Flesta har inte börjat jobba med sin lo-fi, ska göra det idag. 
+Anna ska hålla den sista intervjun. If we get new information we add it to the existing personas.
+
+Tomorrow is the check in with Ludwig.
+
+Showed what Ida had done with Lo-Fi, gave idea that the those who dont want to redo the whole thing can work in the same Figma file and just copy the frame they want to redo and make their changes. 
