@@ -201,3 +201,30 @@ Anna ska hålla den sista intervjun. If we get new information we add it to the 
 Tomorrow is the check in with Ludwig.
 
 Showed what Ida had done with Lo-Fi, gave idea that the those who dont want to redo the whole thing can work in the same Figma file and just copy the frame they want to redo and make their changes. 
+
+## Protocol 241003
+
+Pratar igenom Lo Fi, ska börja göra moodboard och design system.
+
+Gabbe visade sin design. 
+
+Satsa på att mergea allt och organiserar. 
+
+Satsa på moodboard och design system. 
+
+Chattbubbla, ja eller nej. FAQ istället för chattbubbla (?), slå ihop det med reviews (?) eller kontakta oss (?). 
+
+Chattbubbla och FAQ.
+
+utgå från Gabbes design
+BOKA HÄR knapp ÖÖÖÖÖVERALLT
+FAQ på contact us
+
+Pratat med Ludwig och gjort en checkin
+
++ ALLA mergar till main
++ 1 person som organiserar. 
++ 1/2 lofi
++ 1/2 finslipa persona
++ 1/2 finslipa user stories
++ alla gör issues.
