@@ -228,3 +228,23 @@ Pratat med Ludwig och gjort en checkin
 + 1/2 finslipa persona
 + 1/2 finslipa user stories
 + alla gör issues.
+
+## Protocol 241004
+
+Yesterday we merged all into main, hit some problems but we solved it. Only Annas branch left to merge which we are doing now in the morning.
+
+
+## Protocol 241007
+
+Issues till projektet behövs göras.
+Designsystem bör göras i grupp. Onsdag ska den göras.
+Lofi ska göras klart
+Torsdag satsar vi på Hifi
+
+## Protocol 241009
+
+Gabriels dator är trasig, han behöver fixa den. Övriga kan försöka ta beslut över designsystemet. Kollar igenom issues.
+
+Mörkare färg med opacity med tydlig vit text på för dropdown nav menu.
+
+Imorgon ses vi på plats, jobbar med hifi för mobil och desktop. Imorgon väljer vi grupper för respektive hifi.
