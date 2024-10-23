@@ -248,3 +248,37 @@ Gabriels dator är trasig, han behöver fixa den. Övriga kan försöka ta beslu
 Mörkare färg med opacity med tydlig vit text på för dropdown nav menu.
 
 Imorgon ses vi på plats, jobbar med hifi för mobil och desktop. Imorgon väljer vi grupper för respektive hifi.
+
+## Protocol 241014
+
+Check in på hur det går i olika hifis av mobilvyn.
+Vi kom överens i torsdags om olika sidor som vi tog och fick ansvar över att fixa. 
+Gabbe är så gott som klar, Fredric och Anna har inte börjat med sina ännu. Pedro och Ida har påbörjat men inte klara. 
+
+## Protocol 241016
+
+Bestämma kring hur vi ska sätta färgerna. 
+Vi röstade genom att ha samma färg konsekvent över alla sidor på navbar och header.
+Bestämmer hur vi ska gå vidare. Går igenom allas arbete, och har lite retro.
+
+bestämda saker:
++ hel/halvdag pris
++ navbar och header ska vara samma färg över alla sidor
++ bilder ska inte ha dropshadow, 4 grader på corner radius.
++ ha en dropdown med tillhörande textruta för varje utrustning
++ whitespace 16px med undantag
++ la till fonts och font sizes i vår design system.
++ 
+
+## Protocol 241018
+
+ligger efter i kanban board. Uppdaterar den. Fortsatte på hifi för mobil
+
+## Protocol 241021
+Fredric, Pedro och Ida jobbade på forskarprojektet och gjorde den "good enough". Anna fick till sig att göra klart sin lofi. 
+
+Fredric, Pedro och Ida har påbörjat desktop hifi, Fredric har ordnat med en massa komponenter och Pedro och Ida har jobbat med hifi på sina sidor.
+
+## Protocol 241023
+Har en lite genomgång på hur vi ligger till. Det finns extra grejer vi vill göra men vi väljer att lägga det åt sidan så att vi har göra klart allt först.
+Kom överens om ett par punkter som Anna och Gabriel ska göra i forskarprojektet. 
