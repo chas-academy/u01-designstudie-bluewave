@@ -11,7 +11,17 @@
 [Protocol 240925](#protocol-240925)  
 [Protocol 240927](#protocol-240927)  
 [Protocol 240930](#protocol-240930)  
-[Protocol 241002](#protocol-241002)  
+[Protocol 241002](#protocol-241002)
+[Protocol 241003](#protocol-241003)
+[Protocol 241004](#protocol-241004)
+[Protocol 241007](#protocol-241007)
+[Protocol 241009](#protocol-241009)
+[Protocol 241014](#protocol-241014)
+[Protocol 241016](#protocol-241016)
+[Protocol 241018](#protocol-241018)
+[Protocol 241021](#protocol-241021)
+[Protocol 241023](#protocol-241023)
+[Protocol](#pr)  
 
 
 
@@ -204,6 +214,8 @@ Showed what Ida had done with Lo-Fi, gave idea that the those who dont want to r
 
 ## Protocol 241003
 
+[back](#meeting-protocols)
+
 Pratar igenom Lo Fi, ska börja göra moodboard och design system.
 
 Gabbe visade sin design. 
@@ -231,10 +243,14 @@ Pratat med Ludwig och gjort en checkin
 
 ## Protocol 241004
 
+[back](#meeting-protocols)
+
 Yesterday we merged all into main, hit some problems but we solved it. Only Annas branch left to merge which we are doing now in the morning.
 
 
 ## Protocol 241007
+
+[back](#meeting-protocols)
 
 Issues till projektet behövs göras.
 Designsystem bör göras i grupp. Onsdag ska den göras.
@@ -242,6 +258,8 @@ Lofi ska göras klart
 Torsdag satsar vi på Hifi
 
 ## Protocol 241009
+
+[back](#meeting-protocols)
 
 Gabriels dator är trasig, han behöver fixa den. Övriga kan försöka ta beslut över designsystemet. Kollar igenom issues.
 
@@ -251,11 +269,15 @@ Imorgon ses vi på plats, jobbar med hifi för mobil och desktop. Imorgon välje
 
 ## Protocol 241014
 
+[back](#meeting-protocols)
+
 Check in på hur det går i olika hifis av mobilvyn.
 Vi kom överens i torsdags om olika sidor som vi tog och fick ansvar över att fixa. 
 Gabbe är så gott som klar, Fredric och Anna har inte börjat med sina ännu. Pedro och Ida har påbörjat men inte klara. 
 
 ## Protocol 241016
+
+[back](#meeting-protocols)
 
 Bestämma kring hur vi ska sätta färgerna. 
 Vi röstade genom att ha samma färg konsekvent över alla sidor på navbar och header.
@@ -272,13 +294,21 @@ bestämda saker:
 
 ## Protocol 241018
 
+[back](#meeting-protocols)
+
 ligger efter i kanban board. Uppdaterar den. Fortsatte på hifi för mobil
 
 ## Protocol 241021
+
+[back](#meeting-protocols)
+
 Fredric, Pedro och Ida jobbade på forskarprojektet och gjorde den "good enough". Anna fick till sig att göra klart sin lofi. 
 
 Fredric, Pedro och Ida har påbörjat desktop hifi, Fredric har ordnat med en massa komponenter och Pedro och Ida har jobbat med hifi på sina sidor.
 
 ## Protocol 241023
+
+[back](#meeting-protocols)
+
 Har en lite genomgång på hur vi ligger till. Det finns extra grejer vi vill göra men vi väljer att lägga det åt sidan så att vi har göra klart allt först.
 Kom överens om ett par punkter som Anna och Gabriel ska göra i forskarprojektet. 
