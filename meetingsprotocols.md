@@ -312,3 +312,19 @@ Fredric, Pedro och Ida har påbörjat desktop hifi, Fredric har ordnat med en ma
 
 Har en lite genomgång på hur vi ligger till. Det finns extra grejer vi vill göra men vi väljer att lägga det åt sidan så att vi har göra klart allt först.
 Kom överens om ett par punkter som Anna och Gabriel ska göra i forskarprojektet. 
+
+## Protocol 241025
+
+[back](#meeting-protocols)
+
+Check in på vad vi har gjort denna vecka. 
+
++ Fredric har skapat en kontakta oss sida. För mobil. Skapat komponenter. Nu är det färdigt med komponenterna, typ navbar etc.
++ Pedro är klar med bägge
++ Ida är klar med bägge
++ Anna ska göra sitt under helgen
++ Gabbe har påbörjat och ska också göra klart.
+
+Om alla är klara med repo så kan de radera sina branches så Ida kan sortera och organisera
+
+På måndagsmötet ser vi efter hur alla ligger till, vad som finns kvar att göra och därefter bestämmer när vi ska göra presentationen.
