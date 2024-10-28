@@ -328,3 +328,14 @@ Check in på vad vi har gjort denna vecka.
 Om alla är klara med repo så kan de radera sina branches så Ida kan sortera och organisera
 
 På måndagsmötet ser vi efter hur alla ligger till, vad som finns kvar att göra och därefter bestämmer när vi ska göra presentationen.
+
+## Protocol 241028
+
+[back] (#meeting-protocols)
+
+Boka tid för att spela in en video, torsdag, ses 0900-1000.
+Tittar på issues och backlogen. 
+
+Ida kommer börja sortera idag på repo och skapar då en liten lista på saker vi ska ta upp på presentationen gällande vad vi valt att inte ta med. 
+
+Finputsar hifi prototypen.

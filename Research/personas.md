@@ -12,7 +12,7 @@ Persona är en fiktiv person, den inkluderar vanligtvis *namn*, *ålder*, *kön*
 | Goals: | xxx |
 | Frustration: | xxx |
 
-Generell info, finns mer detaljerat i [Figma](länk till figma där persona 1 existerar)  
+Generell info, finns mer detaljerat i [Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=12-103&t=BHoY2PcIYBrxohEU-1)  
 Pro ?  
 porträtt? 
 
@@ -26,9 +26,8 @@ porträtt?
 | Goals: | 5 |
 | Frustration: | 3 |
 
-Generell info, finns mer detaljerat i [Figma](länk till figma där persona 2 existerar)
+Generell info, finns mer detaljerat i [Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=12-103&t=BHoY2PcIYBrxohEU-1)
 
-Generell info, finns mer detaljerat i [Figma](länk till figma där persona 2 existerar)
 
 Hobby: photographer
 
@@ -42,6 +41,6 @@ Hobby: photographer
 | Goals: | 5 |
 | Frustration: | 3 |
 
-Generell info, finns mer detaljerat i [Figma](länk till figma där persona 2 existerar)
+Generell info, finns mer detaljerat i [Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=12-103&t=BHoY2PcIYBrxohEU-1)
 
 Hobby: Food, travel and nature.
