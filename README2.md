@@ -21,5 +21,5 @@ PixelCraft Studio has hired BlueWave to make their website. They are newly estab
 ### [Personas](/Research/personas.md)[Personas](/Research/PersonaG.md) [Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=12-103&t=BHoY2PcIYBrxohEU-1)    
 ### [Mötesprotokoll](/Documentation/meetingsprotocols.md)  
 ### [Intervjumall](/Research/intervjumall.md)  
-### [Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=12-103&t=BHoY2PcIYBrxohEU-1)  
+### [Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=0-1&t=BHoY2PcIYBrxohEU-1)  
 ### [Kanban](https://github.com/orgs/chas-academy/projects/120)
