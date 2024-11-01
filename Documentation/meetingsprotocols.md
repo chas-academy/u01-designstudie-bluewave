@@ -327,3 +327,13 @@ Tittar på issues och backlogen.
 Ida kommer börja sortera idag på repo och skapar då en liten lista på saker vi ska ta upp på presentationen gällande vad vi valt att inte ta med. 
 
 Finputsar hifi prototypen.
+
+## Protocol 241031
+[back](#meeting-protocols)
+
+Gjort en simpel [powerpoint](https://www.canva.com/design/DAGVHw-SKIk/F60EH8t-N-yB5kY1weHhew/view?utm_content=DAGVHw-SKIk&utm_campaign=designshare&utm_medium=link&utm_source=editor) för vår video presentation.
+
+## Protocol 241101
+[back](#meeting-protocols)
+
+Går igenom kraven för uppgiften och sammanställer vår projekt. Samlar in video och diverse dokumentation som behöver läggas till. Avslutar och packar ihop så att säga.	
