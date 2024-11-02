@@ -21,3 +21,4 @@ Få tillgång till användarrecensioner om företaget för att kunna fatta välg
 - Har erfarenhet av att utrustning ofta inte är tillgänglig när hon vill boka, vilket gör det svårt att planera hennes projekt.
 - Tycker att det är jobbigt att behöva skicka mail för frågor, istället för att kunna prata direkt med någon på företaget. 
 
+[Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=1080-4949&t=tThT4AVYb8yYRAhO-1)
