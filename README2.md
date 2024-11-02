@@ -17,9 +17,11 @@ PixelCraft Studio has hired BlueWave to make their website. They are newly estab
 
 # Länkar till övriga sidor i projektet
 ### [Original utkast](/Documentation/startup.md)  
-### [User stories](/Research/user-stories.md) [Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=12-103&t=BHoY2PcIYBrxohEU-1)  
-### [Personas](/Research/personas.md)[Personas](/Research/PersonaG.md) [Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=12-103&t=BHoY2PcIYBrxohEU-1)    
+### [Sammanfattning](/Documentation/Retro.md) av projektet (rapport)
 ### [Mötesprotokoll](/Documentation/meetingsprotocols.md)  
+
+### [User stories](/Research/user-stories.md)---[Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=12-103&t=BHoY2PcIYBrxohEU-1)  
+### [Personas](/Research/personas.md)---[Personas](/Research/PersonaG.md)---[Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=12-103&t=BHoY2PcIYBrxohEU-1)    
 ### [Intervjumall](/Research/intervjumall.md)  
 ### [Figma](https://www.figma.com/design/ImHSrISVuH24ZQWWZIHFMo/U01?node-id=0-1&t=BHoY2PcIYBrxohEU-1)  
-### [Kanban](https://github.com/orgs/chas-academy/projects/120)
+### [Kanban](https://github.com/orgs/chas-academy/projects/120) (GitHub Projects)
